@@ -17,6 +17,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - JunBot -> [Source](https://github.com/SamueleLorefice/JunBot)
  - [@tthemebot](https://t.me/tthemebot) -> [Source](https://github.com/GreyWolfDev/Telegram-Theme-Bot)
  - [@werewolfbot](https://t.me/werewolfbot) -> [Source](https://github.com/parabola949/Werewolf)
+ - WebHaven -> [Source](https://github.com/AbdulrahmanHallak/WebHaven)
  
 ### CoffeeScript
  - [@InstantAnswerBot](https://t.me/instantAnswerBot) -> [Source](https://github.com/rajanand02/TelegramDuckDuckGoBot)
